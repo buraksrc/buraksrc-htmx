@@ -11,8 +11,8 @@ tailwindcss -i public/css/tailwind.css --content "./*.html,./**/*.html" -o publi
 can be used while I finish Makefile (if I have time)
 
 ## TODO
-Add makefile
-Fix public routes
-Add stuff (about page, some demos made with HTMX and a blog page with markdown reader)
-Create Dockerfile for Docker
+Add makefile\
+Fix public routes\
+Add stuff (about page, some demos made with HTMX and a blog page with markdown reader)\
+Create Dockerfile for Docker\
 Add LICENSE
