@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Bayon";
+    src: url('/public/font/bayon/Bayon-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Epilogue";
+    src: url('/public/font/epilogue/Epilogue-Regular.ttf') format('truetype');
+}
